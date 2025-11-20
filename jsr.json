@@ -1,5 +1,5 @@
 {
-  "name": "@denogenesis/meta-docs",
+  "name": "@pedromdominguez/meta-documentation",
   "version": "1.0.0",
   "exports": "./mod.ts",
   "publish": {
