@@ -1,0 +1,13 @@
+{
+  "name": "@denogenesis/meta-docs",
+  "version": "1.0.0",
+  "exports": "./mod.ts",
+  "publish": {
+    "include": [
+      "README.md",
+      "LICENSE",
+      "mod.ts",
+      "docs/**/*.md"
+    ]
+  }
+}
